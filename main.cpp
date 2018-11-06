@@ -5,5 +5,9 @@ using namespace std;
 
 int main() {
     open3d::PointCloud source;
+
+    open3d::Image depth, color;
+
+
     return 0;
 }
